@@ -3,10 +3,10 @@
 //
 // IDECodeSnippetCompletionPrefix: dealloc
 // IDECodeSnippetCompletionScopes: [ClassImplementation]
-// IDECodeSnippetIdentifier: 3E8F2002-A18B-4E8C-9E89-78D5100FC20A
+// IDECodeSnippetIdentifier: 6DF0516E-4277-4B2E-B46B-3B703A1C9559
 // IDECodeSnippetLanguage: Xcode.SourceCodeLanguage.Objective-C
 // IDECodeSnippetUserSnippet: 1
-// IDECodeSnippetVersion: 1
+// IDECodeSnippetVersion: 2
 - (void)dealloc
 {
     <#statements#>

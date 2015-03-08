@@ -1,4 +1,4 @@
-// Table Delegate/DataSource Methods
+// tableDelegateMethods
 // Table Delegate/DataSource Methods
 //
 // IDECodeSnippetCompletionPrefix: tableDelegateMethods

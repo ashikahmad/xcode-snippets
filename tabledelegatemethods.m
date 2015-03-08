@@ -1,5 +1,5 @@
 // Table Delegate/DataSource Methods
-// 
+// Table Delegate/DataSource Methods
 //
 // IDECodeSnippetCompletionPrefix: tableDelegateMethods
 // IDECodeSnippetCompletionScopes: [ClassImplementation]

@@ -5,6 +5,7 @@
 // IDECodeSnippetCompletionScopes: [ClassImplementation]
 // IDECodeSnippetIdentifier: 51B08D86-21F3-41A2-8E0B-B067DC814A97
 // IDECodeSnippetLanguage: Xcode.SourceCodeLanguage.Objective-C
+// IDECodeSnippetPlatformFamily: iphoneos
 // IDECodeSnippetUserSnippet: 1
 // IDECodeSnippetVersion: 0
 -(NSInteger)numberOfSectionsInTableView:(UITableView *)tableView {

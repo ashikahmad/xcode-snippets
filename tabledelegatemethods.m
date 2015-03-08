@@ -16,7 +16,7 @@
 }
 
 -(UITableViewCell *)tableView:(UITableView *)tableView cellForRowAtIndexPath:(NSIndexPath *)indexPath {
-    static NSString *cellID = __cellID;
+    static NSString *cellID = __cellID__;
     BarListCell *cell = (BarListCell *)[tableView dequeueReusableCellWithIdentifier:cellID];
     
     // SetUp cell

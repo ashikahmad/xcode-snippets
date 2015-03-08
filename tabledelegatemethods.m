@@ -17,7 +17,7 @@
 }
 
 -(UITableViewCell *)tableView:(UITableView *)tableView cellForRowAtIndexPath:(NSIndexPath *)indexPath {
-    static NSString *cellID = __cellID__;
+    static NSString *cellID = <#cellID#;
     __CellClass__ *cell = (__CellClass__ *)[tableView dequeueReusableCellWithIdentifier:__cellID__];
     
     // SetUp cell

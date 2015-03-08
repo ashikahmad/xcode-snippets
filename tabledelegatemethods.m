@@ -1,4 +1,4 @@
-// tableDelegateMethods
+// Table Delegate/DataSource Methods
 // 
 //
 // IDECodeSnippetCompletionPrefix: tableDelegateMethods
@@ -8,7 +8,7 @@
 // IDECodeSnippetUserSnippet: 1
 // IDECodeSnippetVersion: 0
 -(NSInteger)numberOfSectionsInTableView:(UITableView *)tableView {
-    return 1;
+    return __num;
 }
 
 -(NSInteger)tableView:(UITableView *)tableView numberOfRowsInSection:(NSInteger)section {

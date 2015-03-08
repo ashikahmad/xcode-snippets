@@ -8,7 +8,7 @@
 // IDECodeSnippetUserSnippet: 1
 // IDECodeSnippetVersion: 0
 -(NSInteger)numberOfSectionsInTableView:(UITableView *)tableView {
-    return __num;
+    return __numberOfSection;
 }
 
 -(NSInteger)tableView:(UITableView *)tableView numberOfRowsInSection:(NSInteger)section {
